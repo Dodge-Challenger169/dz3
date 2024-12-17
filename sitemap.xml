@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+    <url><loc>http://localhost/index.php</loc></url>
+    <url><loc>http://localhost/projects.php</loc></url>
+    <url><loc>http://localhost/about_us.php</loc></url>
+    <url><loc>http://localhost/contacts.php</loc></url>
+    <url><loc>http://localhost/history.php</loc></url>
+</urlset>
